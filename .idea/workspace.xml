@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e06c8fcb-ffb4-4a88-b8ad-6ea5a8ee0793" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/src/test/java/starter/pages/SauceLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/src/test/java/starter/steps/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/src/test/java/starter/tests/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoSerenity/src/test/resources/serenity.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ApiRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/users.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ntt data/serenity-e2e" beforeDir="false" afterPath="$PROJECT_DIR$/../../ntt data/serenity-e2e" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3BiSJleYRaGBRsyPERcQYKpWsQ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ApiRunner (1).executor": "Run",
+    "JUnit.ApiRunner.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/manue/IdeaProjects/netby/api/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\manue\IdeaProjects\netby\api\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApiRunner (1)">
+    <configuration name="ApiRunner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.ApiRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiRunner (1)" />
+        <item itemvalue="JUnit.ApiRunner" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e06c8fcb-ffb4-4a88-b8ad-6ea5a8ee0793" name="Changes" comment="" />
+      <created>1774970329096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774970329096</updated>
+    </task>
+    <servers />
+  </component>
+</project>
