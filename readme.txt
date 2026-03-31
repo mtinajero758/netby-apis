@@ -1,7 +1,7 @@
 GUÍA DE EJECUCIÓN - PROYECTO API AUTOMATION (KARATE)
 
 DESCRIPCIÓN
-Este proyecto contiene la automatización de servicios REST utilizando el framework Karate para la API pública ReqRes (https://reqres.in)[cite: 22, 23].
+Este proyecto contiene la automatización de servicios REST utilizando el framework Karate para la API pública ReqRes (https://reqres.in).
 
 PRERREQUISITOS
 Para ejecutar las pruebas correctamente, asegúrese de contar con lo siguiente:
