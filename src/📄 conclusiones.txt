@@ -1,0 +1,15 @@
+CONCLUSIONES DE LA PRUEBA TÉCNICA - AUTOMATIZACIÓN DE APIS (KARATE)
+
+1. COBERTURA DE ESCENARIOS
+Se implementaron exitosamente los 3 escenarios planificados sobre la API ReqRes:
+   * Escenario 1 (Happy Path): Validación del endpoint GET /api/users/2, asegurando la recuperación correcta de la información del usuario.
+   * Escenario 2 (Negative Path): Validación de POST /api/login utilizando credenciales incompletas (falta de password) para confirmar el manejo de errores del servidor.
+   * Escenario 3 (Happy Path): Validación de POST /api/login con credenciales válidas (email: eve.holt@reqres.in) para asegurar el flujo de autenticación exitoso.
+
+2. SEGURIDAD Y DISEÑO
+   * Se ha integrado un requisito de API Key para la ejecución de las pruebas, simulando un entorno de producción seguro donde el acceso a los recursos está restringido y autenticado.
+   * El uso de Karate permite una validación ágil de los esquemas JSON y códigos de respuesta HTTP en una sola capa de prueba.
+
+3. CRITERIO DE CALIDAD
+   * Las pruebas fueron diseñadas bajo un enfoque práctico y orientado a resultados, priorizando los endpoints críticos para el negocio.
+   * Se validaron tanto las respuestas exitosas como los mensajes de error esperados, garantizando la robustez de la API.
